@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Alteracao conflitante na main
+Conflito resolvido no de merge em feature.txt
+=======
+Nova funcionalidade em desenvolvimento
+>>>>>>> nova-feature
