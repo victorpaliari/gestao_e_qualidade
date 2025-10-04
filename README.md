@@ -11,5 +11,5 @@ A disciplina aborda tanto **gestão de projetos de software** (planejamento, org
 - Metodologias ágeis (Scrum, Kanban) e tradicionais (PMBOK).  
 - Normas e modelos de qualidade: ISO/IEC 25010, CMMI, MPS.BR.  
 - Métricas, testes e verificação de software.  
-- Boas práticas de documentação e versionamento (Git).  
-Pequena correcao no README
+- Boas práticas de documentação e versionamento (Git).
+- Pequena correção no README <- Teste
